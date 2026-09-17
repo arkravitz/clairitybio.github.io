@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://clairitybio.com/sitemap.xml
